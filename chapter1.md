@@ -24,3 +24,5 @@
  <p>
   Database is a connection of related data 
  </p>
+ <h2>Types of Database</h2>
+ <img src="https://github.com/user-attachments/assets/49c5ad4f-f363-48aa-af69-76e7bc11beeb">
