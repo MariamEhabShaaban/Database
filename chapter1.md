@@ -25,4 +25,17 @@
   Database is a connection of related data 
  </p>
  <h2>Types of Database</h2>
- <img src="https://github.com/user-attachments/assets/49c5ad4f-f363-48aa-af69-76e7bc11beeb">
+<div> <img src="https://github.com/user-attachments/assets/49c5ad4f-f363-48aa-af69-76e7bc11beeb"></div>
+<h2>Database management system ( DBMS )</h2>
+<P>DBMS is a collection of programs that enables users to creat and maintain database <strong>( defining - constructing - mainpulating - sharing )</strong></P>
+<ul>
+ <li>defining : 
+ <p>define data types , structures , constrains  it is called "meta-data"</p></li>
+  <li>constructing : 
+ <p>is the process of storing the data</p></li>
+   <li>manipulating : 
+ <p>includes functions such as querying the database</p></li>
+   <li>sharing : 
+ <p>allows multiple users to access data</p></li>
+</ul>
+ 
