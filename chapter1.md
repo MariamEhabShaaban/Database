@@ -38,4 +38,14 @@
    <li>sharing : 
  <p>allows multiple users to access data</p></li>
 </ul>
+<h2>Example</h2>
+<p><strong>University database</strong></p>
+<ol start="1">
+ <li>Data Records : <p>student , course , section , grade report </p></li>
+  <li>Specify structure : <p>data type of each data element</p> </p></li>
+  <li>Store Data</li>
+  <li>Relationships among records</li>
+  <li>mainpulation</li>
+</ol>
+
  
