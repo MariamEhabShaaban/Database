@@ -8,13 +8,10 @@
    an example
   </li>
   <li>
-   characteristics of database approach
-  </li>
-  <li>
-   actors on the scene
-  </li>
-  <li>
    advantages of using DBMS approach
+  </li>
+   <li>
+   actors on the scene
   </li>
  </ul>
  <hr>
@@ -47,5 +44,45 @@
   <li>Relationships among records</li>
   <li>mainpulation</li>
 </ol>
+<h2>simplified DB system environment</h2>
+<div>
+ <img src="https://github.com/user-attachments/assets/ab1ce312-4195-4a68-945e-9fbd4a2e17fd">
+</div>
+<hr>
+<h2>
+Disadvantages of File processing
+</h2>
+<ul>
+ <li>program data dependence</li>
+ <li>duplicate data</li>
+ <li>limited data sharing</li>
+ <li>lengthy development time</li>
+ <li>excessive program maintenance</li>
+</ul>
+<hr>
+<h2>
+Advantages of DB approach
+</h2>
+<ul>
+ <li>self describing nature of DB system</li>
+ <li>insulation between programs and data</li>
+ <li>data abstraction</li>
+ <li>support of multiple views of the data</li>
+ <li>sharing</li>
+</ul>
+<h2>Actors on the scene</h2>
+<ul>
+ <li>Database administration</li>
+ <li>Database designer</li>
+ <li>End users</li>
+ <li>System analyst and application programmers</li>
+</ul>
+
+<h2>Workers behind the scene</h2>
+<ul>
+ <li>DBMS designer</li>
+ <li>Tool developers</li>
+ <li>operators and maintenance personnel</li>
+</ul>
 
  
