@@ -21,10 +21,12 @@ and Architecture</h1>
   <p>provides concepts that describes the details of how data is stored</p></li>
     <li>Representational data model :
   <p>provides concepts that may be easily understood by end users but are not too far from the way data is organized on computer ex:
-   
+   <ul>
       <li>relational data model</li>
       <li>hierarchical data model</li>
       <li>network data model</li>
+   </ul>
+     
     
   </p></li>
       
