@@ -53,7 +53,7 @@ and Architecture</h1>
 </ul></p>
 <img src="https://github.com/user-attachments/assets/5289416f-3477-4134-ac45-add5a3c26c3b">
 <h2>DBMS languages</h2>
-<img src="https://github.com/user-attachments/assets/5f642fae-63cb-4d4b-9191-5ad69a54a7c3">
+<img src="https://github.com/user-attachments/assets/5f642fae-63cb-4d4b-9191-5ad69a54a7c3" width=700px>
 <h2>Database System Environment :</h2>
 <p><b>DB component modules :</b></p>
 <ul>
