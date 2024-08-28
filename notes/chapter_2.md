@@ -52,5 +52,29 @@ and Architecture</h1>
    <li>physical : change internal schema without having to change conceptual schema </li>
 </ul></p>
 <img src="https://github.com/user-attachments/assets/5289416f-3477-4134-ac45-add5a3c26c3b">
-
+<h2>DBMS languages</h2>
+<img src="https://github.com/user-attachments/assets/5f642fae-63cb-4d4b-9191-5ad69a54a7c3">
+<h2>Database System Environment :</h2>
+<p><b>DB component modules :</b></p>
+<ul>
+  <li>buffer management module : read and write on disk</li>
+  <li>higher-level :stored data manager module of DBMS controls access to DBMS information</li>
+</ul>
+<h2>Database system utilities </h2>
+<img src="https://github.com/user-attachments/assets/7a2fdc64-44ca-409b-8851-0e60a73fd1fa"> 
+<h2>Architecture of DBMS :</h2>
+<ul>
+  <li>centeralized DBMS : similar to computer system . earlier architecture used mainframe computer to provide the main processing for all system functions</li>
+  <li>basic client / server :<p> deal with computing environment in which a large number of PCs ,workstations..........</p>
+    <p>types:</p>
+    <ul>
+      <li>
+        two-tier
+      </li>
+        <li>
+        three-tier
+      </li>
+    </ul>
+  </li>
+</ul>
 
