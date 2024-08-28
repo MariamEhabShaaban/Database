@@ -43,5 +43,14 @@ and Architecture</h1>
   <li>conceptual level : has representational model</li>
   <li>external or view level : describes the part of the database that aparticular user group is interested in and hides the rest of the database from that group  </li>
 </ul>
+
+<h2>Data Independence :</h2>
+<p>is defined as the capacity to change the schema at one level of database system without having to change the schema at the next higher level</p>
+<p><b>There are two types:</b>
+<ul>
+  <li>logicla : change conceptual schema without having to change external schema </li>
+   <li>physical : change internal schema without having to change conceptual schema </li>
+</ul></p>
 <img src="https://github.com/user-attachments/assets/5289416f-3477-4134-ac45-add5a3c26c3b">
+
 
