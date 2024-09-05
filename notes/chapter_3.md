@@ -13,11 +13,10 @@
     <b>types:</b>
     <ul>
       <li>simple : has one value    <img src="https://github.com/user-attachments/assets/a04d3a2f-dde3-4eb5-9fe6-182c57bcff80"></li>
-      <li>composite :attribute of attributes  <img src="(https://github.com/user-attachments/assets/56eeca4d-13d9-4c1c-957b-cb254a42f71a">  </li>
+      <li>composite :attribute of attributes  <img src="https://github.com/user-attachments/assets/56eeca4d-13d9-4c1c-957b-cb254a42f71a">  </li>
       <li>multivalued :has more than one value <img src="https://github.com/user-attachments/assets/7e0bac3c-c97d-41f1-8c46-132d8170dea2"></li>
       <li>derived : like age if you calculate it from birth date   <img src="https://github.com/user-attachments/assets/782fe332-e0af-40ba-87a4-27d5052e9ee9"></li>
       <li>complex : multivalued + composite </li>
-      
     </ul>
   
   
