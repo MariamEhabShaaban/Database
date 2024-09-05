@@ -31,5 +31,18 @@
      <li>ternary : between three entities</li>
      <li>recursive :between the entity and itself</li>
    </ul>
+   <b>Constraints :</b>
+   <ul>
+     <li><b>cardinality of relationships : </b>
+       <ul>
+         <li>one to one   1 : 1</li>
+          <li>one to many   1 : N</li>
+          <li>many to many   N : M</li>
+         <p><img src="https://github.com/user-attachments/assets/22fdad1a-5f51-447b-957e-b1522aebdf22"></p>
+       </ul>
+       <li>paticipation : <p><img src="https://github.com/user-attachments/assets/3f56600e-9494-4372-9e36-4d914af113fe"> partial participation of E1 in R</p></li>
+     <li>alternative notation : <p><img src="https://github.com/user-attachments/assets/ab97ccfd-3986-41d5-a865-0848f202ad69" ></p></li>
+     </li>
+   </ul>
    
 </ul>
