@@ -6,7 +6,7 @@
     <ul>
       <li>weak entity: like order dependent on strong entity take the same code from strong entity (don’t has key) <p><img src="https://github.com/user-attachments/assets/21e3646b-1549-466f-b217-d46146e4714c"></p></li>
       <li>strong entity : independent on him self has primary key (it is a code to differ entity from another one)  <p><img src="https://github.com/user-attachments/assets/4c75ca36-37a8-4364-9543-786e55a37d07"></p></li>
-      <p> <img src="https://github.com/user-attachments/assets/4c75ca36-37a8-4364-9543-786e55a37d07"></p>
+      <p> <img src="https://github.com/user-attachments/assets/2f5e41da-7e6b-4881-8d59-716942502fb5"></p>
     </ul>
   </li>
   <li>Attributes : are properties used to describe an entity
@@ -23,7 +23,7 @@
   </li>
   <li>Relationships: relate two or more distinct entities with a specific meaning </li>
   <b>Types</b>
-  <p><img src="![image](https://github.com/user-attachments/assets/0a5b91a6-157c-4fe9-830d-1402795c439e)"></p>
+  <p><img src="https://github.com/user-attachments/assets/0a5b91a6-157c-4fe9-830d-1402795c439e"></p>
    <b>Degree of relationship : </b>
    <ul>
      <li>binary : between two entities</li>
