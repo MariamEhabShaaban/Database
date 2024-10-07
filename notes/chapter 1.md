@@ -1,12 +1,9 @@
 
-#chapter1 Intro
+# chapter1 Intro
  <hr>
-
    - introduction
    -an example
    -advantages of using DBMS approach
-  </li>
-   <li>
    -actors on the scene
  
  <hr>
