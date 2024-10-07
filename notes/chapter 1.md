@@ -2,9 +2,9 @@
 # chapter1 Intro
  <hr>
    - introduction
-   -an example
-   -advantages of using DBMS approach
-   -actors on the scene
+   - an example
+   - advantages of using DBMS approach
+   - actors on the scene
  
  <hr>
  <h2>
