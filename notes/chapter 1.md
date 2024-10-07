@@ -1,20 +1,14 @@
 
- <h1>chapter1 Intro</h1>
+#chapter1 Intro
  <hr>
- <ul>
-  <li>
-   introduction
-  </li>
-  <li>
-   an example
-  </li>
-  <li>
-   advantages of using DBMS approach
+
+   - introduction
+   -an example
+   -advantages of using DBMS approach
   </li>
    <li>
-   actors on the scene
-  </li>
- </ul>
+   -actors on the scene
+ 
  <hr>
  <h2>
   What is database?
