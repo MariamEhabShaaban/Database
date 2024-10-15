@@ -1,10 +1,4 @@
-# 📖Database
 
-- chapter 1️⃣
-    
-    
-- chapter 2️⃣
-- chapter 3️⃣
 - chapter 4️⃣
     
     # Enhanced Entity Relationship (EER) Modeling
@@ -67,4 +61,3 @@
     
     ![cat.webp](cat.webp)
     
-- chapter 5️⃣
