@@ -40,7 +40,7 @@
         
         Overlapping ⇒ entity member at more than one subclass ( O ) character
         
-        ![disjoint.gif](disjoint.gif)
+     ![disjoint](https://github.com/user-attachments/assets/c22ac257-8780-47e6-9ad8-e844847941f3)
         
     - **Competeness**
         - the superclass must be a member of some subclasses.
@@ -50,7 +50,7 @@
     
     Lattice ⇒ Subclass may have more than one superclass ( multiple inheritance )
     
-    ![complete.webp](complete.webp)
+   ![complete](https://github.com/user-attachments/assets/ec30382f-70f7-4c90-8f49-1381e53081fb)
     
     ## Categories (Union of super-classes)
     
@@ -59,5 +59,8 @@
     
     shared class ⇒ intersection between superclasses
     
-    ![cat.webp](cat.webp)
+  
+
+![cat](https://github.com/user-attachments/assets/a34551ba-8a51-46d5-b0a7-11e4ee7890af)
+
     
