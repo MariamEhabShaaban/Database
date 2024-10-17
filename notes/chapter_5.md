@@ -31,13 +31,13 @@
         ## Formal definitions-Tuple:
         
         - Each n-tuple t is an ordered list of n values t =<v1, v2, ... , vn>,
-        • Each value vi , 1 ≤ i ≤ n, is an element of dom (Ai ) or is a special NULL
+        - Each value vi , 1 ≤ i ≤ n, is an element of dom (Ai ) or is a special NULL
         value.
-        • The ith value in tuple t, which corresponds to the attribute Ai , is
+        - The ith value in tuple t, which corresponds to the attribute Ai , is
         referred to as t[Ai ] or [t.Ai](http://t.ai/) or t[i].
-        • Ex. Row in customer relation is 4-tuple and consist of four values as:
+        - Ex. Row in customer relation is 4-tuple and consist of four values as:
                   <123,“ahmed”,”ttttt”,”(02)589256”>
-        • A relation is set of tuples (rows)
+        - A relation is set of tuples (rows)
         
         ## Formal definitions-Domain:
         
