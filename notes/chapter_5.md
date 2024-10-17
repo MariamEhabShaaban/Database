@@ -61,7 +61,8 @@
         - The relation state is a subset of the Cartesian product of the
         domains of its attributes.  r(R) ⊆ (dom(A1) × dom(A2) × . . . × (dom(An))
         
-        ![ch5.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/39d1ff33-6ebf-4a5f-8e1f-5bd0318db249/1eb4f0d5-ecf4-4f29-b5f1-32ff1106d972/ch5.png)
+      ![ch5](https://github.com/user-attachments/assets/4f54b01e-1582-4b7d-87b7-58066b5d3e4d)
+
         
         ## Characteristics of Relations:
         
