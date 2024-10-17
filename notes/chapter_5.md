@@ -14,18 +14,19 @@
         
         ## Formal definitions- schema:
         
-        - A relation schema R (description of relation),
-        • Denoted by R(A1, A2, ... , An),
-        • R is the name of relation
-        • The attributes of relation R are A1, A2, ... , An.
-        • Each attribute Ai is the name of a role played in the relation schema R.
-        • D is called the domain of Ai and is denoted by dom(Ai).
-        • The degree of a relation is the number of attributes n of its relation schema.
-        • Ex. Customer(id, name, address, phone)
-        • Customer >> relation name
-        • Four attributes (id, name, address, phone)
-        • Each attribute has a domain or set of valid values
-        • Ex. The domain of id is 6-digit numbers
+         A relation schema R (description of relation),
+        
+        - Denoted by R(A1, A2, ... , An),
+        - R is the name of relation
+        - The attributes of relation R are A1, A2, ... , An.
+        - Each attribute Ai is the name of a role played in the relation schema R.
+        - D is called the domain of Ai and is denoted by dom(Ai).
+        - The degree of a relation is the number of attributes n of its relation schema
+        - Ex. Customer(id, name, address, phone)
+         Customer >> relation name
+         Four attributes (id, name, address, phone)
+         Each attribute has a domain or set of valid values
+         Ex. The domain of id is 6-digit numbers
         
         ## Formal definitions-Tuple:
         
@@ -43,7 +44,7 @@
         - Domain ⇒ set of valid values and atomic values
         - ( atomic ⇒ indivisible)
         - To specify a domain is to determine a data type
-        - Some examples of domains follow (domain has logical definitions, has data type or format
+        - Some examples of domains follow (domain has logical definitions, has data type or format -
         
         <aside>
         💡
