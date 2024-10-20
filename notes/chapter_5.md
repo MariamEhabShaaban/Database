@@ -61,7 +61,8 @@
         - The relation state is a subset of the Cartesian product of the
         domains of its attributes.  r(R) ⊆ (dom(A1) × dom(A2) × . . . × (dom(An))
         
-        ![ch5.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/39d1ff33-6ebf-4a5f-8e1f-5bd0318db249/1eb4f0d5-ecf4-4f29-b5f1-32ff1106d972/ch5.png)
+       ![ch5](https://github.com/user-attachments/assets/ab298a85-8beb-427e-ba00-96823d2fac81)
+
         
         ## Characteristics of Relations:
         
@@ -107,11 +108,13 @@
         
         - Tuples in the referencing relation R1 have attributes FK ( foreign key) that reference the primary key attributes PK of the referenced relation R2
         
-        ![FK.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/39d1ff33-6ebf-4a5f-8e1f-5bd0318db249/667e2506-e6bd-4610-a677-c7c1fb33383b/FK.jpg)
+        ![FK](https://github.com/user-attachments/assets/38eb6bc5-9392-4c03-9440-e1707e67971f)
+
         
         ### Other Types of Constraints:
         
-        ![other.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/39d1ff33-6ebf-4a5f-8e1f-5bd0318db249/f8918021-6342-4448-a697-cfb232072889/other.jpg)
+        ![other](https://github.com/user-attachments/assets/1d1c8b6a-4294-4860-aebf-2262e8afc24d)
+
         
         ### Populated database state:
         
@@ -124,8 +127,11 @@
         3. MODIFY an attribute of an exisiting tuple
         - 
         
-        ![delete.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/39d1ff33-6ebf-4a5f-8e1f-5bd0318db249/56c45d91-0c54-4715-b64e-ae8260374cb3/delete.jpg)
+        ![insert](https://github.com/user-attachments/assets/d6b5e52e-4540-4b26-a446-01697d3b077a)
+
         
-        ![insert.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/39d1ff33-6ebf-4a5f-8e1f-5bd0318db249/2dfb713a-7661-4d38-a173-2cbca892ccab/insert.jpg)
+       ![delete](https://github.com/user-attachments/assets/fef0b3e8-bf34-47f8-acb0-042863f5b26a)
+
         
-        ![update.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/39d1ff33-6ebf-4a5f-8e1f-5bd0318db249/3f14950b-ddeb-430d-9b83-d42d9962d70e/update.jpg)
+       ![update](https://github.com/user-attachments/assets/c2d2d139-c166-4964-9e70-37209c774f74)
+
